@@ -1,0 +1,2 @@
+class PagesForceController < ApplicationController
+end
